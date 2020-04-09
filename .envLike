@@ -1,4 +1,4 @@
-PORT=3001
 DB_URI=mongodb://user:pass@host:port/dbname
 DB_NS=dbnamespace
+DB_COLLECTION=logcollectionname
 LOG_PATH=
