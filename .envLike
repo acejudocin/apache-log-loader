@@ -2,3 +2,4 @@ DB_URI=mongodb://user:pass@host:port/dbname
 DB_NS=dbnamespace
 DB_COLLECTION=logcollectionname
 LOG_PATH=
+API_URL=https://host:port/logs
