@@ -11,6 +11,6 @@
   "dependencies": {
     "alpine": "^0.2.1",
     "dotenv": "^8.2.0",
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "^3.0.0"
   }
 }
